@@ -1,0 +1,8 @@
+# The graded pipeline needs these three, plus a local Ollama install with a
+# model pulled (free, no API key -- see the "Setup" section in SUBMISSION.md).
+langgraph>=1.0
+langchain-core>=1.4
+langchain-ollama>=1.1
+
+# --- optional, demo-only ---
+streamlit>=1.30      # app.py: live chat demo UI, not used by harness.py/eval.py
