@@ -1,0 +1,67 @@
+{
+  "customers": [
+    {
+      "id": "CUST-1001",
+      "name": "Karen Malhotra",
+      "email": "karen.malhotra@example.com",
+      "tier": "Jungle",
+      "address": "482 Alder Ct, Portland, OR 97214",
+      "member_since": "2024-11-01",
+      "frond_points": 1240,
+      "orders": [
+        {"order_id": "ORD-9310", "date": "2026-06-09", "items": [{"name": "Fiddle-leaf fig (large)", "amount": 74.0}, {"name": "Brass mister", "amount": 15.0}], "total": 89.0, "status": "delivered"},
+        {"order_id": "ORD-9101", "date": "2026-05-09", "items": [{"name": "Bird of paradise", "amount": 89.0}], "total": 89.0, "status": "delivered"}
+      ]
+    },
+    {
+      "id": "CUST-1002",
+      "name": "Priya Shah",
+      "email": "priya.shah@example.com",
+      "tier": "Fern",
+      "address": "77 Sable St Apt 3B, Chicago, IL 60614",
+      "member_since": "2025-08-01",
+      "frond_points": 410,
+      "orders": [
+        {"order_id": "ORD-9287", "date": "2026-06-10", "items": [{"name": "Calathea orbifolia", "amount": 24.0}, {"name": "Pothos golden", "amount": 15.0}], "total": 39.0, "status": "shipped"}
+      ]
+    },
+    {
+      "id": "CUST-1003",
+      "name": "Milo Tanaka",
+      "email": "milo.tanaka@example.com",
+      "tier": "Fern",
+      "address": "1409 Juniper Way, Austin, TX 78704",
+      "member_since": "2026-01-01",
+      "frond_points": 180,
+      "orders": [
+        {"order_id": "ORD-9295", "date": "2026-06-10", "items": [{"name": "Calathea medallion", "amount": 34.0}, {"name": "Fertilizer pods", "amount": 5.0}], "total": 39.0, "status": "delivered"},
+        {"order_id": "ORD-9077", "date": "2026-05-10", "items": [{"name": "Peperomia", "amount": 19.0}, {"name": "Snake plant", "amount": 20.0}], "total": 39.0, "status": "delivered"}
+      ]
+    },
+    {
+      "id": "CUST-1004",
+      "name": "June Okafor",
+      "email": "june.okafor@example.com",
+      "tier": "Jungle",
+      "address": "230 Halcyon Ave, Minneapolis, MN 55408",
+      "member_since": "2025-03-01",
+      "frond_points": 890,
+      "orders": [
+        {"order_id": "ORD-9322", "date": "2026-06-09", "items": [{"name": "Monstera deliciosa (large)", "amount": 45.0}, {"name": "Ceramic planter", "amount": 44.0}], "total": 89.0, "status": "delivered"},
+        {"order_id": "ORD-9118", "date": "2026-05-09", "items": [{"name": "Alocasia polly", "amount": 45.0}, {"name": "Plant stand", "amount": 44.0}], "total": 89.0, "status": "delivered"}
+      ]
+    },
+    {
+      "id": "CUST-1005",
+      "name": "Ray Delgado",
+      "email": "ray.delgado@example.com",
+      "tier": "Jungle",
+      "address": "8 Coble Rd, Asheville, NC 28801",
+      "member_since": "2026-04-01",
+      "frond_points": 150,
+      "orders": [
+        {"order_id": "ORD-9330", "date": "2026-06-09", "items": [{"name": "Kentia palm (large)", "amount": 89.0}], "total": 89.0, "status": "delivered"}
+      ]
+    }
+  ]
+}
